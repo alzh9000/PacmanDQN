@@ -1,6 +1,10 @@
 # PacmanDQN
 Deep Reinforcement Learning in Pac-man
 
+## Install 2022
+Install Python 3.5, TensorFlow==1
+Run `sudo apt-get install python3-tk`
+
 ## Demo
 
 [![Demo](https://github.com/tychovdo/PacmanDQN/blob/master/videos/PacmanDQN_wingif.gif)](https://youtu.be/QilHGSYbjDQ)
