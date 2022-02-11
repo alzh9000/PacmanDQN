@@ -2,8 +2,13 @@
 Deep Reinforcement Learning in Pac-man
 
 ## Install 2022
-Install Python 3.5, TensorFlow==1
-Run `sudo apt-get install python3-tk`
+To run this on Ubuntu 18.04 (WSL2 compatible), do:
+1. `sudo apt-get install python3.5`
+2. `python3.5 -m pip install tensorflow==1`
+3. `sudo apt-get install python3.5-tk`
+4. `python3.5 pacman.py -p PacmanDQN -n 6000 -x 5000 -l smallGrid`
+
+And you should see successful training episodes! :) 
 
 ## Demo
 
