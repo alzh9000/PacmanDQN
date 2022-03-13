@@ -2,6 +2,10 @@
 Deep Reinforcement Learning in Pac-man
 
 ## Install 2022
+I think all that's necessary to get this to run on modern/current tensorflow is to do `import tensorflow.compat.v1 as tf` instead of `import tensorflow as tf`.
+
+Also, do `conda install cudatoolkit` as outlined in https://github.com/tensorflow/tensorflow/issues/45930#issuecomment-776518980 to fix the `2022-03-13 00:55:39.372599: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory` error.
+
 To run this on Ubuntu 18.04 (WSL2 compatible), do:
 1. `sudo apt-get install python3.5`
 2. `python3.5 -m pip install tensorflow==1`
