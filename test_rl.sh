@@ -1,0 +1,1 @@
+python pacman.py -p PacmanDQN -n 6000 -x 5000 -l smallGrid
