@@ -11,6 +11,9 @@
 # Student side autograding was added by Brad Miller, Nick Hay, and
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
+"""
+NEURO 240: Note that this pacman.py file is from the UC Berkeley AI class and was modified for the research paper/project that does Pacman DQN. Ex: running 'python pacman.py' from the command line starts RL training process rather than starting a pacman game. 
+"""
 
 """
 Pacman.py holds the logic for the classic pacman game along with the main
@@ -18,7 +21,7 @@ code to run a game.  This file is divided into three sections:
 
   (i)  Your interface to the pacman world:
           Pacman is a complex environment.  You probably don't want to
-          read through all of the code we wrote to make the game runs
+          read through all of the code we wrote to make the game run
           correctly.  This section contains the parts of the code
           that you will need to understand in order to complete the
           project.  There is also some code in game.py that you should
