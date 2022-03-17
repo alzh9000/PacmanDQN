@@ -7,6 +7,10 @@ import numpy as np
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 
+"""
+NEURO 240: Seems like one of the files added for Pacman DQN by Tycho van der Ouderaa that was not part of the original Berkeley Pacman files.
+"""
+
 
 class DQN:
     def __init__(self, params):

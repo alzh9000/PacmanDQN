@@ -6,6 +6,10 @@
 # The Pacman AI projects were developed at UC Berkeley found at
 # http://ai.berkeley.edu/project_overview.html
 
+"""
+NEURO 240: Seems like one of the files added for Pacman DQN by Tycho van der Ouderaa that was not part of the original Berkeley Pacman files.
+"""
+
 
 import numpy as np
 import random
