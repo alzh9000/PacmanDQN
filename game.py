@@ -1,3 +1,6 @@
+"""
+NEURO 240: Based on Git history, Tycho van der Ouderaa did not edit this at all compared to the corresponding original Berkeley pacman file since the commit Tycho made was just pasting this code into the file.
+"""
 # game.py
 # -------
 # Licensing Information:  You are free to use or extend these projects for

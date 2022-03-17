@@ -7,7 +7,7 @@
 # http://ai.berkeley.edu/project_overview.html
 
 """
-NEURO 240: Seems like one of the files added for Pacman DQN by Tycho van der Ouderaa that was not part of the original Berkeley Pacman files.
+NEURO 240: Seems like one of the files added for Pacman DQN by Tycho van der Ouderaa that was not part of the original Berkeley Pacman files. Based on the Git history, he modified this in several commits (like 4-6?) but the changes weren't massive).
 """
 
 

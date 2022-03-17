@@ -1,3 +1,8 @@
+"""
+NEURO 240: Based on Git history, Tycho van der Ouderaa edited this file only slightly compared to the corresponding original Berkeley pacman file since the primary/largest commit Tycho made was just pasting this code into the file. 
+
+Now, I'm not sure if Tycho used this GitHub the whole time - he might have made changes that weren't captured in commits to this GitHub, in which case I can't see them. 
+"""
 # pacman.py
 # ---------
 # Licensing Information:  You are free to use or extend these projects for
