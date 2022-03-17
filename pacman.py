@@ -536,6 +536,9 @@ def readCommand(argv):
                       help=default(
                           'the LAYOUT_FILE from which to load the map layout'),
                       metavar='LAYOUT_FILE', default='smallGrid')
+    """
+    NEURO 240: This is where the pacmanDQN_Agents.py file is being used, because the default agent TYPE is 'PacmanDQN'
+    """
     parser.add_option('-p', '--pacman', dest='pacman',
                       help=default(
                           'the agent TYPE in the pacmanAgents module to use'),
