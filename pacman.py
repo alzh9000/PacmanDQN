@@ -403,6 +403,9 @@ class PacmanRules:
     consume = staticmethod(consume)
 
 
+"""
+NEURO 240: Check if modifying Ghost behavior or rules here will be useful as a kind of "modifying the transition function."
+"""
 class GhostRules:
     """
     These functions dictate how ghosts interact with their environment.
