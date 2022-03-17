@@ -19,6 +19,9 @@ import random
 from util import manhattanDistance
 import util
 
+"""
+NEURO 240: Check if using or modifying Ghost agends here will be useful as a kind of "modifying the transition function." Spandan said we shouldn't start with this though, instead we should just experiment with really simple changes to ghost behavior, like not allowing ghosts to move in a certain direction (ex: can't move one of left, right, up, or down).
+"""
 
 class GhostAgent(Agent):
 
