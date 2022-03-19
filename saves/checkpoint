@@ -1,0 +1,2 @@
+model_checkpoint_path: "model-python pacman.py -p PacmanDQN -n 10100 -x 10000 -l smallGrid -q_245408_10026"
+all_model_checkpoint_paths: "model-python pacman.py -p PacmanDQN -n 10100 -x 10000 -l smallGrid -q_245408_10026"

@@ -31,7 +31,7 @@ from DQN import *
 params = {
     # Model backups
     'load_file': None,
-    'save_file': None,
+    'save_file': r"""python pacman.py -p PacmanDQN -n 10100 -x 10000 -l smallGrid -q""",
     'save_interval' : 10000, 
 
     # Training parameters
