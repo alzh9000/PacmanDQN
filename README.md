@@ -14,6 +14,8 @@ To run this on Ubuntu 18.04 (WSL2 compatible), do:
 
 And you should see successful training episodes! :) 
 
+Use `-q` to get quiet outputs, which is important.
+
 ## Demo
 
 [![Demo](https://github.com/tychovdo/PacmanDQN/blob/master/videos/PacmanDQN_wingif.gif)](https://youtu.be/QilHGSYbjDQ)
